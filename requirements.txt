@@ -1,4 +1,0 @@
- Django==4.2.11
-djangorestframework
-psycopg2-binary
-gunicorn
